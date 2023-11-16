@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security<br>🌱 I’m currently learning Go, Django & Lpic1<br>📫 how to reach me momeni.armin82@gmail.com<br><br>
+🔭 I’m currently working on Cyber Security<br>🌱 I’m currently learning Go, Bash & Lpic1<br>📫 how to reach me momeni.armin82@gmail.com<br><br>
 
 
 ## 🌐 Socials:
