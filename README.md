@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security<br>🌱 I’m currently learning Go, Bash & Lpic1<br>📫 how to reach me momeni.armin82@gmail.com<br><br>
+🔭 I’m currently working on Site Reliability Engineering<br>🌱 Working on Monitoring Stack<br>📫 how to reach me momeni.armin82@gmail.com<br><br>
 
 
 ## 🌐 Socials:
@@ -18,7 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
